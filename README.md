@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs related to comparing strings, particularly when dealing with null or empty values.  The bug involves the incorrect handling of a missing customer name, leading to unexpected program behavior. The solution showcases a more robust approach.
